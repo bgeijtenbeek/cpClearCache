@@ -5,7 +5,3 @@
 
 #Copy remediation script to folder, create when required.
 xcopy /f /y ".\cpClearCache.ps1" "C:\Scripts\cpClearCache\"
-
-#Run the script (locally, once)
-Set-Location "C:\Scripts\cpClearCache\"
-.\cpClearCache.ps1

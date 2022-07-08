@@ -2,8 +2,8 @@
 Written by Bastiaan Geijtenbeek, July 8 2022. <br />
 Script / Intunewin to quickly empty the Company Portal cache
 
-When ran (through intunewin), package installs cpClearCache.ps1 script in folder C:\Scripts\cpClearCache\. After installation it also runs once out of the box.
-Script will then be available locally in folder C:\Scripts\cpClearCache so IT Support can use this whenever they please.<br />
+When ran (through intunewin), package installs cpClearCache.ps1 script in folder C:\Scripts\cpClearCache\. 
+Script will then be available locally so IT Support can use this whenever they please.<br />
 The script will log every step/outcome in folder C:\ScriptLogs\cpClearCache so be sure to give that a quick peek after execution. <br /><br />
 NOTE: Script does require admin credentials and exectutionpolicy unrestricted to run properly.<br /><br />
 

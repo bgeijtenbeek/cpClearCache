@@ -6,6 +6,7 @@ When ran (through intunewin), package installs cpClearCache.ps1 script in folder
 After that the script will be available for running locally in folder C:\Scripts\cpClearCache so IT Support can use this whenever they please.
 NOTE: Script does require admin credentials and exectutionpolicy unrestricted to run properly.
 
+**INTUNE APP DEPLOYMENT**
 Install command: powershell -executionpolicy unrestricted -file install.ps1
 Uninstall Command: powershell -executionpolicy unrestricted -file uninstall.ps1
 
